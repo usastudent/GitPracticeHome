@@ -2,9 +2,10 @@ package day.onehome;
 
 public class PracticeHome {
 
-	public static void main(String[] args) {
-		
-		
+	public int sum(int a , int b) {
+		 int sum =a+b;
+		 return sum;
+	}
 	}
 
-}
+
